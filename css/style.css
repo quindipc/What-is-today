@@ -1,15 +1,9 @@
-/******************************************
-/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
-/*******************************************/
 
-/* Box Model Hack */
 *{
   box-sizing: border-box;
 }
 
-/******************************************
-/* LAYOUT
-/*******************************************/
+
 body{
   background: black;
   color: white;
@@ -37,9 +31,6 @@ li{
 }
 h2{
   font-size: 100px;
-  color: red;
+  color: white;
   font-weight: bold;
 }
-/******************************************
-/* ADDITIONAL STYLES
-/*******************************************/
